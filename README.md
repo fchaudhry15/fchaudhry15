@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently a Biostatistics/Data Analyst student at Tulane SPHTM
 - 🔭 I’m also a full-time Program Coordinator at Tulane
-- ⚡ I'm interested in expanding my knowledge in SAS, R, & Python
-         -in general statistical analysis, coding, AI, & machine learning
+- ⚡ I'm interested in expanding my knowledge in SAS, R, & Python, in general statistical analysis, coding, AI, & machine learning
 
 
 <!--
